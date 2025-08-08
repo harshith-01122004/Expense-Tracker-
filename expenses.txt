@@ -1,0 +1,7 @@
+Date: 22-02-2025, Description: jatin, Amount: $20.0
+/Date: 22-02-2025  /Description: surfexcel /Amount: 10.0
+/Date: 22-02-2025  /Description: aloo,pyaz,tamatar /Amount: 30.0
+/Date: 22-02-2025  /Description: surfexcel /Amount: 10.0
+Date: 22-02-25  Description: aloo, pyaaz Amount: 50.0
+Date: 26-02-2025  Description: dahi Amount: 30.0
+Date: 5 july 2025  Description: enerzal, glucon-d Amount: 200.0
